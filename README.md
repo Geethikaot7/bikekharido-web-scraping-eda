@@ -230,7 +230,7 @@ The project includes visualizations for:
 ---
 
 ## Project Structure
-
+```text
 bikekharido-used-bike-analysis/
 │
 ├── 01_scraped_data.ipynb
@@ -241,4 +241,3 @@ bikekharido-used-bike-analysis/
 ├── bikekharido_used_bikes_cleaned.csv
 │
 └── README.md
----
