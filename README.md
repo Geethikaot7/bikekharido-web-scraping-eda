@@ -2,253 +2,237 @@
 
 ## Project Overview
 
-This project focuses on collecting used-bike listing data from the
-BikeKharido website and performing data cleaning, exploratory data
-analysis (EDA), visualization, and business analysis.
+This project focuses on collecting used-bike listing data from the **BikeKharido website** and performing data cleaning, exploratory data analysis (EDA), visualization, and business analysis.
 
 The project follows the workflow:
 
-**Website Selection → Data Collection → Data Understanding → Data
-Cleaning → EDA → Data Visualization → Business Insights →
-Recommendations**
+**Website Selection → Data Collection → Data Understanding → Data Cleaning → EDA → Data Visualization → Business Insights → Recommendations**
+
+---
 
 ## Project Objective
 
-The main objective is to analyze used-bike listings and understand:
+The main objective of this project is to analyze used-bike listings and understand:
 
--   Used-bike price variation
--   Price differences across locations
--   Ownership distribution
--   Relationship between kilometres driven and price
--   Highest- and lowest-priced bikes
--   High-mileage bikes
--   Factors that can help understand used-bike pricing and inventory
+- Used-bike price patterns
+- Price differences across locations
+- Ownership distribution
+- Kilometres driven
+- Relationship between kilometres driven and price
+- Frequently listed bike models
+- Price distribution
+- High-priced bike listings
+- Business insights from used-bike data
+
+---
 
 ## Dataset
 
-The final analysis contains **11 valid unique used-bike listings**
-collected from the BikeKharido used-bikes page.
+The data was collected from the BikeKharido used-bikes webpage.
+
+### Dataset Size
+
+- **Raw scraped records:** 1,200
+- **Duplicate records removed:** 602
+- **Invalid/missing kilometre record removed:** 1
+- **Final cleaned records:** 597
+- **Columns:** 5
 
 ### Features
 
-  -----------------------------------------------------------------------
-  Column                              Description
-  ----------------------------------- -----------------------------------
-  `bike_name`                         Name/model of the bike
+| Column | Description |
+|---|---|
+| `bike_name` | Name/model of the bike |
+| `price` | Listed price of the bike in INR |
+| `km_driven` | Kilometres driven |
+| `ownership` | Ownership category shown in the listing |
+| `location` | Location of the bike |
 
-  `price`                             Seller-demand price of the bike in
-                                      INR
+---
 
-  `km_driven`                         Kilometres driven
+## Web Scraping
 
-  `ownership`                         Number of previous owners/category
-                                      shown in the listing
-
-  `location`                          City/location of the bike
-  -----------------------------------------------------------------------
-
-Two datasets are maintained:
-
--   `bikekharido_used_bikes_collected.csv` --- raw collected data
--   `bikekharido_used_bikes_cleaned.csv` --- cleaned data used for
-    analysis
-
-## Web Scraping Process
-
-The data was collected from the BikeKharido used-bikes webpage using
-Python.
+The data was collected using Python and web-scraping libraries.
 
 ### Libraries Used
 
--   `requests`
--   `BeautifulSoup`
--   `pandas`
+- Python
+- Requests
+- BeautifulSoup
+- Pandas
 
-### Scraping Steps
+### Scraping Process
 
-1.  Sent an HTTP request to the BikeKharido used-bikes webpage.
-2.  Used a browser User-Agent in the request headers.
-3.  Parsed the HTML using BeautifulSoup.
-4.  Identified the bike listing cards from the webpage.
-5.  Extracted:
-    -   Bike name
-    -   Seller-demand price
-    -   Kilometres driven
-    -   Ownership
-    -   Location
-6.  Stored the extracted records in a Pandas DataFrame.
-7.  Saved the collected data as a CSV file.
+1. Accessed the BikeKharido used-bikes webpage.
+2. Sent HTTP requests using a browser User-Agent.
+3. Parsed the webpage using BeautifulSoup.
+4. Identified the bike listing cards.
+5. Extracted:
+   - Bike name
+   - Price
+   - Kilometres driven
+   - Ownership
+   - Location
+6. Collected listings from multiple pages.
+7. Stored the scraped data in a Pandas DataFrame.
+8. Saved the raw data as a CSV file.
+
+---
 
 ## Data Cleaning
 
-The collected data was checked and cleaned before analysis.
+The collected data was cleaned before performing analysis.
 
 ### Cleaning Steps
 
--   Checked dataset structure and data types.
--   Checked for missing values.
--   Checked for duplicate records.
--   Removed duplicate rows.
--   Removed the `₹` symbol and commas from the price values.
--   Converted `price` from text to numeric format.
--   Removed `km` from the kilometres-driven values.
--   Converted `km_driven` to numeric format.
--   Checked for unrealistic/outlier values.
--   One `Magnus EX` listing contained an invalid source price of
-    `₹9,27,01,01,577`. The original webpage was checked and showed the
-    same value, so the record was excluded rather than replacing the
-    source value with an invented price.
--   Removed the unnecessary index column from the cleaned dataset.
+- Checked dataset shape and structure.
+- Checked data types.
+- Checked missing values.
+- Checked duplicate records.
+- Removed duplicate rows.
+- Removed the `₹` symbol and commas from price values.
+- Converted `price` into numeric format.
+- Removed `km` from kilometres-driven values.
+- Converted `km_driven` into numeric format.
+- Checked invalid and unusual values.
+- Removed one record where the kilometres-driven value could not be converted into a valid numeric value.
+- Checked the cleaned dataset again for missing values and duplicates.
+
+### Final Data Quality
+
+- **Final rows:** 597
+- **Columns:** 5
+- **Missing values:** 0
+- **Duplicate rows:** 0
+
+---
 
 ## Exploratory Data Analysis
 
-The following analyses were performed:
+The following analysis was performed on the cleaned dataset:
 
-### 1. Price Distribution
+### 1. Price Analysis
 
-The valid listings have prices ranging from **₹15,000 to ₹95,000**.
+Analyzed bike prices to understand the overall price distribution and identify high-priced listings.
 
-### 2. Listings by Location
+### 2. Location Analysis
 
--   Mumbai --- 3 listings
--   Kolkata --- 3 listings
--   Jaipur --- 1 listing
--   Hyderabad --- 1 listing
--   Indore --- 1 listing
--   Pune --- 1 listing
--   Delhi --- 1 listing
+Analyzed the number of bike listings across different locations and compared price patterns between locations.
 
-### 3. Average Price by Location
+### 3. Ownership Analysis
 
-  Location      Average Price
-  ----------- ---------------
-  Mumbai              ₹70,000
-  Kolkata             ₹40,000
-  Indore              ₹36,000
-  Delhi               ₹35,000
-  Jaipur              ₹34,000
-  Pune                ₹25,000
-  Hyderabad           ₹16,000
+Analyzed the distribution of bikes based on ownership categories and compared average price and kilometres driven.
 
-The location-level results should be interpreted cautiously because most
-locations contain only one listing.
+### 4. Kilometres Driven Analysis
 
-### 4. Ownership Distribution
+Analyzed the distribution of kilometres driven and identified common mileage ranges.
 
--   First owner --- 9 listings
--   Second owner --- 1 listing
--   Third owner --- 1 listing
+### 5. Price vs Kilometres Driven
 
-### 5. Average Price by Ownership
+Studied the relationship between bike price and kilometres driven to understand how mileage is associated with listed prices.
 
--   First owner --- approximately ₹38,556
--   Second owner --- ₹95,000
--   Third owner --- ₹34,000
+### 6. Bike Model Analysis
 
-The second- and third-owner averages are based on only one listing each.
+Identified frequently listed bike models and compared average prices across different bike models.
 
-### 6. KM Driven vs Price
+### 7. High-Priced Bike Analysis
 
-The correlation between kilometres driven and price is approximately
-**-0.67**, indicating a moderate negative relationship in this sample.
+Analyzed bikes priced above **₹2,00,000** and identified the locations with more high-priced listings.
 
-This means that bikes with higher kilometres driven generally tend to
-have lower listed prices in the analyzed data. Correlation does not
-establish causation.
+### 8. Price Range Analysis
 
-### 7. Highest-Priced Bikes
+Grouped bikes into different price ranges:
 
-  Bike                                 Price
-  -------------------------------- ---------
-  XPulse 200 4V                      ₹95,000
-  Shine Celebration Edition Drum     ₹90,000
-  S1 X                               ₹75,000
-  Avenger Cruise 220 BS6             ₹36,000
-  Victor                             ₹35,000
+- Under ₹50K
+- ₹50K–₹1L
+- ₹1L–₹2L
+- Above ₹2L
 
-### 8. Lowest-Priced Bikes
+### 9. Kilometre Range Analysis
 
-  Bike                     Price
-  -------------------- ---------
-  Dio Repsol Edition     ₹15,000
-  Karizma R              ₹16,000
-  Activa 3G STD          ₹25,000
-  Dio BS4 Dio            ₹25,000
-  Drift                  ₹30,000
+Grouped bikes into different kilometre ranges:
 
-### 9. Highest-Mileage Bikes
+- Under 10K km
+- 10K–25K km
+- 25K–50K km
+- Above 50K km
 
-  Bike                                            KM Driven
-  -------------------------------------------- ------------
-  Karizma R                                      100,000 km
-  Dio Repsol Edition                              90,000 km
-  Dio BS4 Dio                                     70,000 km
-  Activa 3G STD                                   60,000 km
-  Maestro Edge 110 Drum Brake Alloy Wheel FI      28,000 km
+---
 
-## Key Business Insights
+## Key Findings
 
-1.  Used-bike prices show considerable variation, ranging from **₹15,000
-    to ₹95,000** in the cleaned dataset.
-2.  Mumbai has the highest average listed price at **₹70,000** among the
-    locations analyzed.
-3.  Mumbai and Kolkata have the highest number of listings in this
-    sample, with **3 listings each**.
-4.  First-owner bikes dominate the dataset, accounting for **9 of the 11
-    valid listings**.
-5.  KM driven has a moderate negative correlation with price (**-0.67**)
-    in this sample.
-6.  XPulse 200 4V has the highest listed price at **₹95,000**.
-7.  Dio Repsol Edition has the lowest listed price at **₹15,000**.
-8.  The highest-mileage bikes are generally among the lower-priced
-    listings.
-9.  Data validation is important because one source listing contained an
-    obviously invalid price value.
+- The dataset contains **597 unique used-bike listings** after cleaning.
+- Most bikes are listed within the **₹50K–₹2L** price range.
+- **First-owner bikes** make up the majority of the listings.
+- Major cities such as **Delhi, Mumbai, Bangalore, Pune, and Hyderabad** have a higher number of listings.
+- Most bikes fall within the **10K–50K km** range.
+- Higher kilometres driven generally show a **negative relationship with listed price** in the analyzed dataset.
+- The dataset contains a mix of regular used bikes and higher-priced premium bikes.
+- Some listings have unusually high prices compared with the majority of the dataset and were reviewed separately during analysis.
+
+---
+
+## Business Insights
+
+The analysis shows that used-bike prices can vary based on multiple factors such as:
+
+- Bike model
+- Kilometres driven
+- Ownership
+- Location
+
+Looking at these factors together gives a better understanding of used-bike pricing and inventory patterns.
+
+The analysis can help a used-bike marketplace understand its inventory, pricing patterns, location-wise listings, and different customer-focused bike categories.
+
+---
 
 ## Business Recommendations
 
-1.  **Consider mileage when evaluating prices:** Kilometres driven can
-    be included as one factor when comparing or pricing used bikes.
-2.  **Monitor location-level pricing:** Locations with more listings,
-    such as Mumbai and Kolkata in this sample, can be monitored for
-    changes in listing prices and inventory.
-3.  **Use price segmentation:** Listings can be grouped into budget,
-    mid-range, and higher-price categories to make comparisons easier.
-4.  **Highlight lower-mileage bikes:** Lower-mileage vehicles can be
-    emphasized when presenting options to customers.
-5.  **Display ownership information clearly:** Ownership history should
-    be visible so customers can compare listings more effectively.
-6.  **Validate scraped data:** Automated scraping results should be
-    checked for missing, duplicate, and unrealistic values before
-    analysis.
-7.  **Expand the dataset:** More listings, pages, cities, and bike
-    models should be collected to obtain broader and more reliable
-    market-level insights.
+- Provide filters for **price, kilometres driven, ownership, and location**.
+- Create categories such as **Budget Bikes, Mid-Range Bikes, and Premium Bikes**.
+- Highlight bikes with lower kilometres driven.
+- Clearly display ownership information for each listing.
+- Monitor pricing differences across major locations.
+- Review unusually high-priced listings separately before using them for normal price comparisons.
+- Continue collecting more listings from different pages and locations for broader analysis.
+- Use bike model, mileage, ownership, and location together when comparing prices.
 
-## Project Limitations
+---
 
--   The analysis is based on **11 valid unique listings** from the
-    scraped dataset.
--   The sample is not large enough to represent the entire used-bike
-    market.
--   Several locations and ownership categories contain only one listing.
--   The analysis describes relationships in the collected sample and
-    does not establish causation.
+## Visualizations
+
+The project includes visualizations for:
+
+- Bike price distribution
+- Listings by location
+- Average price by ownership
+- Average kilometres by ownership
+- Top bike models by listing count
+- Top bike models by average price
+- High-priced bikes by location
+- Price range distribution
+- Kilometre range distribution
+- Price vs kilometres driven
+
+---
 
 ## Tools & Technologies
 
--   Python
--   Requests
--   BeautifulSoup
--   Pandas
--   Matplotlib
--   Jupyter Notebook
--   CSV
+- **Python**
+- **Requests**
+- **BeautifulSoup**
+- **Pandas**
+- **Matplotlib**
+- **Jupyter Notebook**
+- **CSV**
+
+---
 
 ## Project Structure
 
-``` text
-bikekharido-web-scraping-eda/
+```text
+bikekharido-used-bike-analysis/
 │
 ├── 01_scraped_data.ipynb
 ├── 02_data_cleaning.ipynb
@@ -258,12 +242,4 @@ bikekharido-web-scraping-eda/
 ├── bikekharido_used_bikes_cleaned.csv
 │
 └── README.md
-```
-
-## Conclusion
-
-This project demonstrates a complete beginner-friendly web-scraping and
-EDA workflow using used-bike listings. The analysis identifies patterns
-in pricing, location, ownership, and kilometres driven while also
-demonstrating the importance of data cleaning and validation before
-drawing business insights.
+---
