@@ -1,0 +1,598 @@
+bike_name,price,km_driven,ownership,location
+Activa 3G STD,25000,60000.0,First,Mumbai
+Maestro Edge 110 Drum Brake Alloy Wheel FI,34000,28000.0,Third,Jaipur
+XPulse 200 4V,95000,25000.0,Second,Mumbai
+S1 X,75000,2250.0,First,Kolkata
+Karizma R,16000,100000.0,First,Hyderabad
+Avenger Cruise 220 BS6,36000,23008.0,First,Indore
+Dio Repsol Edition,15000,90000.0,First,Kolkata
+Dio BS4 Dio,25000,70000.0,First,Pune
+Shine Celebration Edition Drum,90000,15000.0,First,Mumbai
+Victor,35000,13000.0,First,Delhi
+Drift,30000,25000.0,First,Kolkata
+Pulsar 220 F,130000,5000.0,First,Mumbai
+CB Unicorn 150 Disc,70000,33000.0,First,Nagpur
+Ray Z Precious Edition,25000,15000.0,Second,Mumbai
+Pulsar N250,75000,20000.0,Second,Mysore
+Pulsar 135LS STD,17000,70000.0,First,Agra
+Pulsar N160,115000,10000.0,First,Kolkata
+CD 110 Dream DLX New,60000,2999.0,First,Chandernagore
+Apache RTR 160 4V Front And Rear Disc,70000,60000.0,Third,Delhi
+NTORQ 125 XT,60000,40000.0,First,Kolkata
+Activa 125 Premium Edition Drum,60000,5000.0,First,Kolkata
+Maestro 110cc,27999,50000.0,Second,Bhuj
+RC 390 (2014-2016) STD,80000,60000.0,First,Pune
+Ronin Triple Tone – Dual Channel – Galactic Grey,90000,5000.0,First,Pune
+Maestro 110cc,25000,30000.0,First,Indore
+Activa 3G STD,26500,25000.0,First,Barrackpore
+Discover 125 125,21000,40000.0,First,Pune
+Avenger Street 160,105000,6321.0,First,Mumbai
+Pulsar N160,90000,39000.0,First,Mumbai
+FZS-FI V4,105000,25000.0,First,Gurgaon
+Jupiter 125 Drum Alloy,65000,10000.0,First,Hyderabad
+Apache RR 310 ABS,220000,10000.0,First,Noida
+SR125,900000,10000.0,First,Ajmer
+Access 125 Disc Brake CBS Special Edition,45000,30000.0,Second,Delhi
+Bullet 350 ES ABS BS4,120000,40000.0,First,Pune
+Scooty Pep Plus Matte Series BS6,50000,5000.0,First,Pune
+Pulsar NS160 STD,77999,24700.0,First,Pune
+Glamour Xtec,75000,22850.0,First,Ahmedabad
+FZ-X Bluetooth,145000,20000.0,First,Hyderabad
+Pulsar N160,105000,20000.0,First,Noida
+RayZR 125 Fi Hybrid,70000,10000.0,First,Bangalore
+Shine Celebration Edition Disc,85000,15000.0,First,Murshidabad
+Apache RTR 180 2013,45000,35000.0,First,Bangalore
+Pulsar 125 Carbon Fiber Split Seat,85000,10000.0,First,Bangalore
+G 310 R,130000,50000.0,First,Gurgaon
+Apache RTR 160 4V Front And Rear Disc With SmartXonnect,98000,20000.0,First,Chennai
+Classic 350 Dark Series With Dual-Channel,180000,9000.0,First,Agra
+Apache RTR 180,32000,80000.0,Second,Lunglei
+Epluto 7G,20000,15000.0,First,Hyderabad
+Ninja 300,300000,10000.0,First,Bangalore
+Pulsar RS200 BS4 ABS,75000,50000.0,First,Chandigarh
+Gixxer (2014-2018) SP,40000,25000.0,First,Pune
+Jupiter Grande Edition bs4,35000,35000.0,First,Delhi
+2012 Honda Activa,27000,35000.0,First,Mumbai
+2021 Bajaj Pulsar NS200 ABS,90000,5000.0,First,Kolkata
+2024 Yamaha R15 V4 Racing Blue,170000,8000.0,First,Rajkot
+2023 Suzuki Access 125 Disc Brake CBS Special Edition,65000,35000.0,First,Jaipur
+2025 Yamaha RayZR 125 Fi Hybrid,10500,3700.0,First,Ranchi
+2019 Jawa Dual Channel – Maroon,90000,90000.0,First,Mumbai
+2019 Honda Dio Sports DLX,43000,20000.0,First,Chennai
+2017 Benelli TNT 25 Standard,80000,35000.0,Above,Mysore
+2025 TVS Ronin Triple Tone – Dual Channel – Galactic Grey,190000,143.0,First,Kolkata
+2021 Benelli Imperiale 400 Silver,140000,20000.0,First,Bangalore
+2021 Royal Enfield Bullet 350 X Kick Start,140000,11350.0,First,Guwahati
+2025 Harley-Davidson X440,275000,3000.0,First,Noida
+2014 Yamaha FZ 150 150,40000,35554.0,Second,Bangalore
+2015 Yamaha YZF R15 Version 2.0,20000,40000.0,First,Delhi
+2020 Ampere Electric Reo,35000,5000.0,First,Dehradun
+2012 Bajaj CT100 Spoke BS4,10203,60000.0,Second,Pune
+2022 TVS Apache RTR 160 4V Special Edition,65000,25000.0,First,Bangalore
+2019 Yamaha FZ-FI Version 3.0,68000,40000.0,Second,Mangaluru
+2018 Bajaj Pulsar NS160 STD,75000,20000.0,First,Agra
+2022 TVS Sport Kick Start Alloy Wheel,35000,10000.0,First,Jaipur
+2018 TVS Apache RTR 200 4V Standard BS4,40000,70000.0,First,Delhi
+2024 Triumph Speed 400,230000,8100.0,First,Hyderabad
+2019 Honda Livo BS4,45000,20000.0,Second,Ghaziabad
+2017 Honda CB Shine BS4 Disc Brake,35000,50000.0,First,Meerut
+2023 Hero HF Deluxe Kick Start Drum Alloy Wheel,70000,12000.0,First,Tinsukia
+2020 TVS Apache RTR 160 Disc,85000,20000.0,First,Dhanbad
+2020 Bajaj Pulsar RS200 ABS,100000,60000.0,First,Vijayawada
+2022 Yamaha Fascino 125 Fi Hybrid,40000,50000.0,First,Delhi
+2024 KTM 250 Duke STD,165000,6500.0,First,Muzaffarpur
+2024 Royal Enfield Hunter 350 Metro Rebel,210000,10000.0,First,Bangalore
+2016 Royal Enfield Classic 350 Signals Series With Dual-Channel,99000,35000.0,Second,Noida
+2022 Yamaha FZS 25,120000,10000.0,First,Bangalore
+2017 Hero Achiever Drum,42000,31471.0,First,Dehra Dun
+2021 Hero Passion Pro i3s Drum Alloy,45000,40000.0,First,Hyderabad
+2020 Yamaha YZF R15 V3 Moto GP Edition STD,135000,30000.0,Second,Bangalore
+2023 Hero Glamour Xtec,80000,6200.0,First,Patna
+2019 Yamaha FZ-FI Version 3.0,70000,40000.0,First,Pune
+2017 Suzuki Gixxer,55000,60000.0,First,Pune
+2022 Yamaha FZ-S Fi Version 3.0 BS4,85000,24000.0,First,Indore
+2022 Yamaha MT 15 V2,160000,30000.0,First,Bangalore
+2021 Yamaha FZS-FI V3 STD Bluetooth,75000,5000.0,First,Indore
+2023 Bajaj Avenger Street 160,90000,21500.0,First,Delhi
+2022 Hero Passion Pro i3s Disc Alloy,55000,30000.0,First,Bangalore
+2017 Bajaj Pulsar NS160 STD,40000,27500.0,Third,Delhi
+2017 Bajaj Pulsar NS200 STD BS4,55000,66850.0,First,Hyderabad
+2017 Bajaj Dominar 400 (2016-2018) ABS,110000,35000.0,First,Jodhpur
+2017 Royal Enfield Classic 350 Redditch Series With Single-Channel,145000,50000.0,First,Bangalore
+2012 Honda Activa,20000,29500.0,First,Jaipur
+2022 Suzuki Avenis Ride Connect Edition,60000,25000.0,Second,Mumbai
+2018 Honda CB Unicorn 150 Disc,55000,40000.0,First,Chennai
+2023 Yezdi Adventure Mambo Black,175000,10000.0,Second,Delhi
+2023 Royal Enfield Hunter 350 Metro Rebel,170000,25000.0,First,Karimnagar
+2023 TVS iQube Electric S,105000,18250.0,First,Kolkata
+2024 Yamaha FZS-FI V4,100000,10000.0,First,Mumbai
+2012 TVS Apache RTR 160 Disc,18000,110000.0,First,Chennai
+2023 Royal Enfield Hunter 350 Metro Rebel,139999,5000.0,First,Kanpur
+2022 Jawa 42 Bobber Jasper Red,170000,8700.0,First,Saharanpur
+2025 Keeway SR125,135000,331.0,First,Ahmedabad
+2023 KTM 250 Duke STD,200000,20000.0,First,Mumbai
+2024 Honda Shine 100,70000,2140.0,First,Titagarh
+2023 Yamaha R15 V4 M,130000,6000.0,Third,Delhi
+2022 Yamaha R15 V4 M,161000,15000.0,First,Kolkata
+2015 Hero Maestro 110cc,42000,35000.0,First,Lucknow
+2023 Yamaha R15 V4 M,130000,5000.0,Third,Delhi
+2019 Bajaj Pulsar 150 Twin Disc ABS,66000,50000.0,First,Indore
+2024 Honda Hornet 2.0,150000,10000.0,First,Ahmedabad
+2023 Bajaj Pulsar N160,118000,20000.0,First,Kolkata
+2023 Yezdi Roadster,165000,10000.0,First,Delhi
+2019 Royal Enfield Thunderbird 350 ABS,110000,40000.0,Second,Noida
+2022 Hero Electric Optima CX Dual Battery,80000,5000.0,First,Kolkata
+2015 Mahindra Gusto DX,17000,35000.0,First,Mumbai
+2014 Honda CB Trigger DLX,45000,30000.0,First,Mumbai
+2023 Honda SP 125,85000,5000.0,First,Noida
+2021 Royal Enfield Interceptor 650 Ravishing Red,240000,10000.0,First,Bangalore
+2022 Royal Enfield Bullet 350 X Electric Start,175000,15000.0,First,Bangalore
+2017 Honda CB Hornet 160R BS4 Special Edition CBS,60000,33000.0,First,Pune
+2021 KTM 200 Duke STD 2018 – 2020,160000,30000.0,First,Bangalore
+2021 Suzuki Gixxer SF 250 Moto GP BS6,125000,25000.0,Second,Bangalore
+2021 Suzuki Burgman Street EX,65000,25000.0,First,Purnia
+2022 Yamaha R15 V4 Racing Blue,150000,30000.0,First,Delhi
+2017 Honda Activa 4G STD,50000,5000.0,First,Kolkata
+2021 TVS Jupiter 125 Drum Alloy,50000,25000.0,First,Ahmedabad
+2021 KTM 250 Duke STD,160000,90000.0,Second,Delhi
+2021 Honda Activa 125 Premium Edition Disc,57000,20000.0,First,Noida
+2022 Bajaj Avenger Street 160,90000,10000.0,First,Mumbai
+2017 Bajaj Pulsar NS160 STD,48000,70000.0,First,Delhi
+2024 TVS NTORQ 125 Race Edition,102000,5000.0,First,Srinagar
+2016 Hero Splendor PRO Self Spoke,30000,30000.0,Second,Faridabad
+2024 Yamaha MT 15 V2,195000,3500.0,First,Chennai
+2019 Royal Enfield Interceptor 650 Silver Spectre,200000,20000.0,First,Delhi
+2023 Triumph Speed 400,200000,11800.0,First,Gurgaon
+2018 Bajaj Pulsar NS160 STD,60000,35000.0,First,Delhi
+2020 Vespa SXL 125 BS6,60000,50000.0,First,Pune
+2014 Royal Enfield Bullet 350 ES ABS BS4,110000,120000.0,Above,Hubballi-Dharwad
+2012 Yamaha FZ S FI (V 2.0) Dual Disc,40000,80000.0,First,Hyderabad
+2017 Yamaha Ray Z STD,38000,30000.0,First,Hyderabad
+2019 Honda Activa 4G STD,45000,40000.0,First,Hyderabad
+2022 Yamaha FZ 25,120000,10000.0,Second,Chennai
+2018 Royal Enfield Thunderbird 350 ABS,140000,20000.0,First,Agra
+2021 Honda Dio Sports DLX,58000,60000.0,First,Hyderabad
+2013 Honda Dream Yuga 110,20000,30000.0,First,Delhi
+2019 TVS NTORQ 125 Disc BS4,46000,1010.0,First,Gurgaon
+2023 Bajaj Pulsar 220 F,115000,35000.0,First,Hyderabad
+2015 Triumph Tiger 1200 GT Explorer,100000,30000.0,Second,Bangalore
+2021 Aprilia SXR 160,75000,7000.0,Second,Mumbai
+2015 Bajaj Pulsar 150 Single Disc BS6,60000,50000.0,First,Prayagraj
+2012 Hero Maestro 110cc,12000,70000.0,First,Chennai
+2021 Honda Activa 5G Activa,25000,10000.0,First,Mumbai
+2016 Yamaha FZ-S (V 2.0) STD,45000,40000.0,First,Solapur
+2018 Yamaha R15S Dark Knight,66000,30000.0,First,Patna
+2012 Honda Activa,30000,40000.0,First,Raichur
+2022 Yezdi Roadster,200000,5000.0,First,Pune
+2022 Yamaha MT 15 V2,150000,5000.0,First,Delhi
+2018 Bajaj Platina 100 Electric Start CBS,39000,30000.0,First,Chennai
+2014 Yamaha FZS 25,25000,20000.0,Second,Delhi
+2022 PURE EV Epluto 7G,60000,10000.0,First,Mumbai
+2020 Royal Enfield Classic 350 Dark Series With Dual-Channel,170000,30000.0,Third,Ghaziabad
+2021 Honda CB350RS Mono Tone,180000,5000.0,First,Chennai
+2022 KTM 390 Adventure,280000,20000.0,Second,Hyderabad
+2023 Kawasaki Ninja 300,365000,1125.0,First,Mumbai
+2021 Jawa Perak,150000,10000.0,First,Guwahati
+2018 TVS Apache RTR 160 4V Drum (2019),75000,12500.0,First,Silchar
+2021 Bajaj Avenger Street 160,72000,28000.0,First,Kolkata
+2024 Bajaj Pulsar NS200 ABS,170000,5000.0,First,Delhi
+2022 Hero Splendor Plus XTEC,55000,26758.0,First,Ghaziabad
+2024 TVS NTORQ 125 Race Edition,100000,5000.0,First,Delhi
+2019 Harley-Davidson Street 750 BS6,350000,10000.0,First,Pune
+2021 Yamaha Fascino 125 Hybrid Disc,50000,50000.0,First,Delhi
+2020 Jawa Dual Channel – Maroon,130000,50000.0,First,Hyderabad
+2021 Jawa Perak,210000,15000.0,First,Jaipur
+2021 Hero Splendor Plus Self with Alloy Wheel and i3S,70000,30000.0,First,Delhi
+2019 Yamaha YZF R15 V3 Moto GP Edition STD,100000,25000.0,Second,Mumbai
+2022 Royal Enfield Meteor 350 Stellar,200000,4000.0,First,Burdwan
+2022 Suzuki Gixxer SF MotoGP BS6,75000,25000.0,First,Noida
+2022 Bajaj Pulsar N250,130000,5000.0,First,Delhi
+2018 Bajaj Dominar 400 (2016-2018) ABS,150000,10000.0,First,Bangalore
+2021 Jawa Perak,190000,10000.0,First,Hyderabad
+2017 Hero Glamour Fuel injection BS4,42000,47000.0,First,Baleshwar
+2016 Royal Enfield Bullet 350 X Kick Start,85000,30000.0,First,Ranchi
+2021 Jawa Forty Two Dual Channel – Comet Red,125000,5000.0,First,Pune
+2018 Bajaj Avenger Cruise 220 BS6,57000,50000.0,First,Delhi
+2016 Hero Ignitor 125 Drum,25000,90000.0,Third,Guwahati
+2016 Mahindra Mojo 300 BS4,85000,30000.0,Second,Nagpur
+2023 Hero Splendor Plus i3s,850000,90000.0,First,Bangalore
+2018 Royal Enfield Thunderbird 350X STD,125000,25000.0,First,Pune
+2022 TVS Apache RR 310 ABS,255000,5000.0,First,Hyderabad
+2018 Yamaha R15S ABS,80000,50000.0,First,Bangalore
+2021 Suzuki Burgman Street EX,70000,20000.0,First,Kolkata
+2016 Bajaj Pulsar RS200 ABS,100000,20000.0,First,Bangalore
+2019 Royal Enfield Thunderbird 350X ABS,140000,15000.0,First,Aurangabad
+2017 Honda CB Hornet 160R BS4 CBS,50000,50000.0,First,Gurgaon
+2021 Bajaj Dominar 250,175000,15000.0,Second,Mumbai
+2023 Royal Enfield Bullet 350 Electric Start BS4,180000,3500.0,First,Ghaziabad
+2015 Bajaj Pulsar 150 STD,40000,60000.0,First,Gurgaon
+2018 Royal Enfield Classic 500 Stealth Black,160000,20000.0,First,Patna
+2017 Honda Activa 3G STD,45000,35000.0,Second,Bangalore
+2021 Yamaha YZF R15 V3 Moto GP Edition STD,160000,4600.0,First,Delhi
+2018 Honda Dio BS4,40000,25000.0,Third,Chennai
+2018 UM Motorcycles Renegade Commando Mojave STD,80000,20000.0,First,Delhi
+2020 Honda Activa 6G Premium Edition,80000,5000.0,First,Gautam Buddha Nagar
+2019 Benelli TNT 600i BS4 ABS BS4,470000,20000.0,Third,Delhi
+2019 Yamaha FZ 25 BS4 STD,120000,10000.0,Second,Indore
+2011 Bajaj Discover 100 M,20000,100000.0,First,Dhule
+2018 Suzuki Gixxer (2014-2018) SP,50000,25000.0,First,Kolkata
+2015 Bajaj Avenger Street 220 BS4 220,35000,70000.0,First,Surat
+2016 Vespa SXL 150,70000,40000.0,Second,Bangalore
+2021 TVS NTORQ 125 Super Squad Edition,79000,15000.0,Second,Bangalore
+2015 Bajaj Pulsar 135LS STD,20000,30000.0,First,Mumbai
+2022 Yezdi Adventure Slick Silver,220000,15000.0,First,Bangalore
+2023 Bajaj Pulsar P150 Twin Disc,115000,1700.0,First,Delhi
+2022 Bajaj Pulsar NS 125,88000,6384.0,First,Kolkata
+2016 Bajaj V15 Power Up STD,20000,10000.0,First,Delhi
+2016 Honda CB Hornet 160R BS4 STD ABS,55000,40000.0,First,Bangalore
+2018 Bajaj Dominar 400 (2016-2018) ABS,110000,30000.0,First,Ahmedabad
+2017 Yamaha FZ S FI (V 2.0) Dual Disc,65000,40000.0,First,Bangalore
+2015 KTM 200 Duke 2013 – 2016,85000,25000.0,First,Pune
+2022 Hero XPulse 200 4V,130000,2800.0,First,Delhi
+2011 Yamaha FZ 16 STD,20000,50000.0,First,Delhi
+2015 Ducati Monster 795 STD,685000,19200.0,Second,Delhi
+2022 Honda Dio Sports STD,85000,3400.0,First,Tinsukia
+2017 Royal Enfield Classic 350 (2012-2021) ABS BS4,128000,15000.0,First,Mumbai
+2013 Royal Enfield Bullet Electra std,90000,20000.0,Second,Gurgaon
+2023 TVS Sport Self Start Alloy Wheel New,66000,5000.0,First,Mumbai
+2021 Bajaj Avenger Cruise 220 BS6,96000,5405.0,First,Kolkata
+2023 Odysse Electric Hawk,70000,15000.0,First,Bangalore
+2022 Revolt RV400,110000,4500.0,First,Pune
+2018 Bajaj V15 Power Up STD,32000,20000.0,Second,Delhi
+2020 Suzuki Gixxer,99000,20000.0,First,Mumbai
+2018 Hero Maestro Edge 125 Disc Prismatic Connected,30000,30000.0,First,Cuttack
+2021 TVS Raider SmartXonnect,60000,40000.0,First,Delhi
+2018 Aprilia SR 150 ABS,40000,30000.0,Second,Pune
+2022 Yamaha Fascino 125 Fi Hybrid,79000,26500.0,First,Hyderabad
+2011 Bajaj Pulsar 200 STD,40000,15000.0,First,Chennai
+2018 Bajaj Pulsar 150 Single Disc BS6,54980,20000.0,First,Pune
+2019 KTM 390 Duke BS4,180000,40000.0,Second,Varanasi
+2012 Bajaj Platina 100 Kick Start CBS,20000,60000.0,First,Ghaziabad
+2011 Yamaha YZF R15 Version 2.0,50000,30000.0,Above,Indore
+2014 Yamaha FZ 16 STD,35000,50000.0,First,Bangalore
+2022 Hero Passion XTEC,68000,7400.0,First,Hyderabad
+2020 Suzuki Access 125 Drum Brake CBS Special Edition,32000,40000.0,First,Kolkata
+2023 Royal Enfield Classic 350 Dark Series With Dual-Channel,230000,7500.0,First,Hyderabad
+2012 Hero Xtreme Disc,20000,25000.0,First,Delhi
+2022 Hero Super Splendor i3s Drum Alloy,75000,10000.0,First,Muzaffarnagar
+2018 KTM 390 Duke BS6,165000,10000.0,First,Gurugram
+2022 KTM 250 Duke STD,239000,5000.0,First,Kolkata
+2022 TVS Scooty Pep Plus Glossy,55000,20000.0,First,Mumbai
+2021 Suzuki Gixxer SF MotoGP BS6,150000,25000.0,First,Chennai
+2017 Yamaha FZ S FI (V 2.0) STD,35000,110000.0,First,Hyderabad
+2014 TVS Apache RTR 180,40000,50000.0,First,Ghaziabad
+2021 TVS Apache RTR 200 4V Dual Channel ABS,120000,10000.0,First,Delhi
+2018 TVS Apache RTR 160 4V Carburetor Single Disc (2018),55000,100000.0,First,Delhi
+2020 Royal Enfield Interceptor 650 Black Ray,225000,10000.0,First,Delhi
+2018 Bajaj CT100 Spoke BS4,27000,20000.0,First,Noida
+2016 Royal Enfield Thunderbird 350 ABS,100000,35000.0,First,Mumbai
+2018 TVS Jupiter Classic BS4,28000,30000.0,Second,Gurgaon
+2012 TVS Apache RTR 160 Disc,25000,50000.0,First,Bangalore
+2013 Hero Pleasure Alloy Wheel,24000,5000.0,First,Agartala
+2023 Bajaj CT 125X,80000,5000.0,First,Delhi
+2020 Benelli Imperiale 400 Silver,160000,25000.0,First,Bangalore
+2022 Royal Enfield Hunter 350 Metro,195000,5600.0,First,Jaipur
+2015 TVS Apache RTR 160 Disc,47000,30000.0,Second,Bangalore
+2021 Bajaj Pulsar 150 Single Disc BS6,115000,10000.0,First,Bangalore
+2012 Hero Pleasure Sheet Metal Wheel,38000,14000.0,First,Bhubaneshwar
+2013 Honda Activa,26000,30000.0,First,Bangalore
+2023 Yezdi Adventure Mambo Black,200000,15000.0,First,Noida
+2013 Yamaha YZF R15 Version 2.0,50000,50000.0,Second,Pune
+2023 Honda CB350RS Mono Tone,192000,4400.0,First,Noida
+2021 Bajaj Pulsar NS160 Twin Disc BS6,85000,22300.0,First,Noida
+2019 Suzuki Intruder 160,90000,20000.0,First,Lucknow
+2021 TVS NTORQ 125 Disc,55000,15000.0,First,Delhi
+2023 Hero Passion XTEC,72000,10000.0,First,New Delhi
+2021 Benling India Aura,60000,5000.0,First,Delhi
+2018 Bajaj Pulsar 220 F,64999,60000.0,Second,Hyderabad
+2016 Hyosung GV650 Aquila Pro STD,295000,10000.0,First,Visakhapatnam
+2015 Bajaj Avenger Street 150,40000,35000.0,First,Mumbai
+2020 Bajaj Avenger Street 160,45000,20000.0,First,Mumbai
+2013 Yamaha FZS 25,40000,12500.0,First,Delhi
+2017 Bajaj V15 Power Up STD,32000,40000.0,Second,Chennai
+2018 TVS NTORQ 125 Disc BS4,50000,37000.0,First,Hyderabad
+2017 Bajaj Avenger Cruise 220 Bajaj Avenger Cruise 220 Desert Gold,65000,22500.0,First,Pune
+2021 Yamaha YZF R15 V3 Moto GP Edition STD,120000,25000.0,First,Kolkata
+2018 TVS Scooty Pep Plus pep,28990,10000.0,First,Meerut
+2022 Royal Enfield Meteor 350 Supernova,180000,10000.0,First,Burdwan
+2019 Hero Passion Pro BS4 i3s Disc Alloy,40000,15000.0,Second,Mumbai
+2016 TVS Apache RTR 200 4V Standard BS4,55000,55000.0,First,Kolkata
+2013 KTM 390 Duke (2013-2016) STD,115000,27374.0,First,Mumbai
+2012 Yamaha FZ 16 STD,41000,33241.0,First,Delhi
+2017 KTM 200 Duke 2013 – 2016,83500,35000.0,Second,Delhi
+2022 Yamaha YZF R15 Version 2.0,150000,25000.0,First,Tezpur
+2021 Jawa Forty Two Double Disc,150000,20000.0,First,Indore
+2015 Bajaj Avenger 220 Street,60000,27000.0,First,Jalandhar
+2020 Jawa Forty Two Dual Channel – Starlight Blue,120000,15000.0,First,Pune
+2013 Hero Maestro 110cc,30000,50000.0,Second,Bhopal
+2015 Royal Enfield Classic 350 Dark Series With Dual-Channel,140000,6000.0,First,New Delhi
+2014 Yamaha FZ-S (V 2.0) STD.,39000,21000.0,First,Mumbai
+2011 Hero Pleasure Sheet Metal Wheel,28000,25000.0,Second,Pune
+2011 Hero Honda Splendor Pro,30000,100000.0,First,Pune
+2016 Honda Aviator Drum Brake,50000,17000.0,First,Thrissur
+2019 Royal Enfield Interceptor 650 Silver Spectre,250000,10000.0,First,Kolkata
+2018 Harley-Davidson Street 750 STD,450000,15000.0,Second,Bangalore
+2021 Hero Splendor Plus Black and Accent,65000,40000.0,First,Faridabad
+2018 Royal Enfield Classic 350 (2012-2021) ABS BS4,130000,12000.0,First,Ghaziabad
+2017 Suzuki Gixxer SF (2015-2018),60000,20000.0,First,Indore
+2023 Ola Electric S1 X,130000,10000.0,First,Mumbai
+2021 Hero Passion Pro i3s Disc Alloy,60000,25000.0,First,Pune
+2022 Honda SP 125,80000,30000.0,First,Hyderabad
+2022 BGauss D15 i,90000,5000.0,First,Chennai
+2023 Royal Enfield Hunter 350 Metro Rebel,190000,1800.0,First,Hyderabad
+2011 Hero Honda CD Dawn,10000,100000.0,Second,Hyderabad
+2021 Suzuki Gixxer SF MotoGP BS6,120000,15000.0,First,Lucknow
+2019 Royal Enfield Interceptor 650 Silver Spectre,180000,10000.0,First,Noida
+2016 Royal Enfield Thunderbird 350 STD,85000,25000.0,First,Bangalore
+2016 Royal Enfield Bullet Electra std,100000,50000.0,First,Delhi
+2011 Suzuki Access 125 Drum Brake CBS Special Edition,18000,200000.0,Third,Lucknow
+2014 Royal Enfield Classic 350 (2012-2021) ABS BS4,60000,50000.0,First,Delhi
+2020 TVS Apache RTR 160 4V Front And Rear Disc,89999,25000.0,Second,Gurgaon
+2017 Bajaj Avenger Cruise 220,45000,35000.0,Second,Delhi
+2018 Royal Enfield Thunderbird 350 STD,110000,6000.0,First,Mumbai
+2023 Husqvarna Motorcycles Vitpilen 250,250000,2800.0,First,Hyderabad
+2022 TVS NTORQ 125 Race Edition,68000,30000.0,First,Delhi
+2017 Honda Activa 4G STD,45000,23000.0,First,Delhi
+2017 TVS XL100 STD BS4,40000,50000.0,First,Coimbatore
+2017 KTM 250 Duke 2017-2019,150000,50000.0,First,Pune
+2010 Hero Pleasure Sheet Metal Wheel,30000,50000.0,First,Solapur
+2023 Bajaj Pulsar NS200 ABS,165000,5000.0,First,Raichur
+2021 Suzuki Gixxer,99000,5000.0,First,Mumbai
+2010 Bajaj Pulsar 150(2009-2014) STD,22000,25000.0,First,Hyderabad
+2016 Honda Activa 3G STD,45000,24425.0,Second,Bangalore
+2020 Hero Xtreme Disc,79000,15000.0,First,Ahmedabad
+2011 Yamaha Fazer 153 STD,26000,90000.0,First,Noida
+2017 Bajaj Pulsar NS160 STD,57000,60000.0,First,Surat
+2018 Royal Enfield Bullet 350 X Kick Start,135000,18000.0,First,Rohtak
+2023 Hero Glamour Xtec,92000,1250.0,First,Panipat
+2014 Honda Aviator Drum Brake,30000,33000.0,First,Delhi
+2023 TVS Apache RR 310 ABS,280000,3000.0,First,Aurangabad
+2015 Benelli TNT 600i BS4 Limited Edition,340000,35000.0,Second,Coimbatore
+2021 Suzuki Gixxer,100000,5000.0,First,Mumbai
+2021 Jawa Perak,200000,5000.0,First,Delhi
+2019 TVS Apache RR 310 ABS (BS4),220000,13500.0,First,Pune
+2019 TVS NTORQ 125 Disc BS4,40000,35000.0,First,Delhi
+2013 Royal Enfield Thunderbird 350 STD,77000,35000.0,First,Vasai-Virar
+2022 BMW G 310 RR Style Sport,310000,10000.0,First,Delhi
+2014 Honda CBR 150 R Standard,60000,56000.0,Second,Mumbai
+2022 Jawa Dual Channel – Black,168000,15000.0,First,Delhi
+2018 Honda Activa 5G,45000,25000.0,First,Mumbai
+2022 TVS Jupiter Sheet Metal Wheel,65000,20000.0,First,Aligarh
+2017 Royal Enfield Classic 350 Redditch Series With Single-Channel,110000,21050.0,First,Delhi
+2020 Royal Enfield Interceptor 650 Mark Three,250000,10000.0,First,Thane
+2022 Yezdi Roadster,170000,10000.0,First,Gurgaon
+2013 Hyosung GT650R,200000,5000.0,Second,Hyderabad
+2021 Honda Dio BS4,55000,15000.0,First,Baleshwar
+2014 Honda CB Unicorn 150 Disc,45000,35000.0,First,Mumbai
+2012 Honda Activa 2009-2014,25000,40000.0,Second,Sikar
+2014 Kawasaki Ninja 650,230000,30000.0,Second,Kolkata
+2018 Suzuki Intruder 160,80000,15000.0,Second,Ajmer
+2023 Hero Splendor Plus XTEC,75000,5000.0,First,Bhubaneshwar
+2022 Royal Enfield Himalayan Gravel Grey,200000,6000.0,First,Chennai
+2018 Honda Grazia Sports Edition,55000,40000.0,First,Bhubaneshwar
+2017 Bajaj Pulsar 200 STD,96870,11500.0,First,Valsad
+2014 Hero Maestro 110cc,35000,40000.0,First,Lucknow
+2016 Yamaha FZ S FI (V 2.0) STD,58000,25000.0,First,Noida
+2015 Mahindra Gusto VX CBS,20000,25000.0,First,Pune
+2017 Bajaj Avenger Street 150,40000,20000.0,First,Noida
+2014 Hero Karizma 223cc,32000,20000.0,First,Bangalore
+2021 Royal Enfield Meteor 350 Stellar,180000,15000.0,First,Delhi
+2021 Honda CD 110 Dream DLX New,57000,40000.0,First,Hyderabad
+2018 Bajaj Avenger Cruise 220 BS6,80000,23000.0,First,Delhi
+2014 Honda CB Trigger 150,20000,80000.0,First,Lucknow
+2021 TVS Apache RTR 160 4V Front And Rear Disc,90000,18000.0,First,Bharhut
+2021 Suzuki Burgman Street EX,100000,1600.0,First,Mumbai
+2019 Honda Activa 5G STD,60000,25000.0,Second,Pune
+2017 Vespa SXL 150,60000,20000.0,First,Pune
+2020 Yamaha Fascino 125 Hybrid DLX Drum,45000,40000.0,First,Kolkata
+2020 Royal Enfield Bullet 350 X Kick Start,155000,20000.0,First,Muzaffarnagar
+2018 Royal Enfield Bullet Electra std,125000,3341.0,First,Agra
+2012 TVS Wego,25000,50000.0,First,Delhi
+2022 Royal Enfield Meteor 350 Fireball,220000,8794.0,First,Ahmedabad
+2022 Revolt RV400,105000,20000.0,First,Pune
+2011 Hero Karizma R,22000,25000.0,Second,Kurnool
+2022 Yezdi Roadster,180000,10000.0,Second,Sonipat
+2021 Yamaha YZF R15 V3 Moto GP Edition STD,155000,3100.0,First,Delhi
+2018 TVS NTORQ 125 Race Edition,45000,50000.0,First,Kota
+2022 TVS Ronin Triple Tone – Dual Channel – Galactic Grey,150000,4600.0,First,Mumbai
+2015 Royal Enfield Bullet Electra std,100000,70000.0,First,Delhi
+2018 KTM 200 Duke STD 2018 – 2020,145000,10000.0,First,Delhi
+2016 Suzuki Gixxer SF (2015-2018),48000,70000.0,First,Bangalore
+2022 TVS Raider SmartXonnect,88000,5000.0,First,Delhi
+2015 Honda Activa 3G STD,45000,32710.0,First,Mumbai
+2018 Royal Enfield Classic 350 Chrome Series With Dual-Channel,160000,20000.0,First,Bangalore
+2010 TVS Apache 2007-2011,25000,80000.0,Second,Rajkot
+2018 Hero Glamour Disc,45000,20000.0,First,Kaithal
+2020 Yamaha FZ-FI Version 3.0,93000,25000.0,First,Bangalore
+2020 Suzuki Gixxer SF 250 BS4,124900,15000.0,Second,Delhi
+2023 Hero Super Splendor XTEC,90000,1000.0,First,Cuttack
+2021 Jawa Perak,170000,7200.0,First,Jodhpur
+2020 Yamaha YZF R15 Movistar STD,140000,30000.0,First,Bangalore
+2022 Revolt RV400,120000,273.0,First,Pune
+2011 Suzuki Access 125 BS4,16000,30000.0,First,Faridabad
+2018 Bajaj V15 Power Up STD,42000,10000.0,Third,Hisar
+2021 Honda H’ness CB350 DLX Pro,190000,5000.0,First,Hyderabad
+2015 KTM RC 390,120000,20000.0,First,Hyderabad
+2010 Honda Shine Celebration Edition Disc,20000,18845.0,First,Mumbai
+2017 UM Motorcycles Renegade Commando Carb,55000,25000.0,Second,Bangalore
+2021 Bajaj Avenger Cruise 220 BS6,135000,5000.0,First,Delhi
+2018 Mahindra MOJO XT 300 ABS,140000,25000.0,First,Ahmedabad
+2021 Suzuki Gixxer,90000,3900.0,Second,Delhi
+2021 Bajaj Avenger Street 160,80000,30000.0,First,Cuttack
+2014 Bajaj Pulsar 220 F,35000,35000.0,First,Delhi
+2022 Bajaj Pulsar 125 Carbon Fiber Single Seat,82000,5000.0,First,Bhopal
+2022 TVS Apache RR 310 ABS,270000,5000.0,First,Gwalior
+2014 Honda CB Shine SP Drum Brake,30000,67500.0,First,Asansol
+2022 Yezdi Roadster,150000,5000.0,First,Mumbai
+2015 KTM 390 Duke (2013-2016) STD,125000,16000.0,First,Mumbai
+2012 Bajaj Avenger 220 STD,35000,100000.0,First,Bangalore
+2014 Honda Activa,25000,40000.0,Second,Delhi
+2021 Bajaj Pulsar NS 125,85000,32000.0,First,Delhi
+2019 KTM RC 125 (2019-2021),130000,10000.0,First,Delhi
+2022 Vespa ZX 125,110000,700.0,First,Delhi
+2018 Vespa VXL 150 ABS,65000,10000.0,First,Ahmedabad
+2020 Bajaj Pulsar 150 Twin Disc ABS,85000,30000.0,First,Vijayawada
+2018 TVS NTORQ 125 Disc,50000,25000.0,Second,Pune
+2018 Bajaj Dominar 400 BS4,120000,11500.0,First,Mumbai
+2023 TVS Jupiter STD,90000,3000.0,First,Pune
+2015 Suzuki Gixxer,45000,37600.0,First,Kolkata
+2020 Honda Hornet 2.0,110000,30000.0,First,Bangalore
+2018 Royal Enfield Thunderbird 350X STD,97500,10000.0,First,Faridabad
+2019 Bajaj Pulsar 150 Twin Disc ABS,45000,50000.0,First,Indore
+2016 Honda CB Hornet 160R BS4 STD ABS,55000,30000.0,First,Hyderabad
+2019 Honda Activa 5G,65000,5000.0,Second,Bangalore
+2018 Hero Duet LX,40000,15000.0,First,New Delhi
+2021 Royal Enfield Bullet 350 X Kick Start,140000,10000.0,First,Shillong
+2018 Royal Enfield Bullet 350 X Kick Start,125000,10000.0,First,Delhi
+2023 Bajaj Pulsar NS 125,100000,2800.0,First,Kalyan
+2010 TVS Apache RTR 160 Disc,20000,15000.0,Third,Noida
+2014 Royal Enfield Classic 350 (2012-2021) ABS BS4,110000,10000.0,First,Mangaluru
+2014 Vespa LX 125 STD,35000,30000.0,First,Delhi
+2016 Honda Activa 3G STD,50000,35000.0,First,Surat
+2012 Bajaj Pulsar 150(2009-2014) STD,25000,100000.0,First,Noida
+2021 TVS iQube Electric S,95000,3400.0,First,Delhi
+2019 Royal Enfield Interceptor 650 Orange Crush,275000,10000.0,First,Vasai-Virar
+2021 Royal Enfield Classic 350 (2012-2021) Pure Black BS6 January 2021,165000,10000.0,First,Kolkata
+2014 Bajaj Discover 125,22000,68000.0,First,Agra
+2022 Suzuki Intruder Fi SP,100000,1000.0,First,Noida
+2022 Kawasaki Z650RS,650000,800.0,First,Delhi
+2012 Honda Activa 2009-2014,28000,36000.0,First,Jaipur
+2021 Yamaha RayZR 125 Street Rally,64000,5000.0,First,Faridabad
+2023 Bajaj Platina 110 H Gear Disc BS6,78000,14000.0,First,Jaipur
+2010 TVS Scooty Streak,20000,20000.0,First,Chhindwara
+2023 Royal Enfield Himalayan Granite Black,250000,5000.0,First,Delhi
+2023 Bajaj Avenger Street 160,110000,10000.0,First,Noida
+2011 Bajaj Pulsar 150 ABS,30000,80000.0,First,Kolkata
+2023 Royal Enfield Bullet 350 X Kick Start,172000,9000.0,First,Faridabad
+2016 Royal Enfield Classic 350 Chrome Series With Dual-Channel,90000,50000.0,First,Delhi
+2021 Honda Hornet 2.0,105000,50000.0,First,Delhi
+2016 TVS Star City Plus,40000,40000.0,First,Mysore
+2021 Royal Enfield Classic 350 Chrome Series With Dual-Channel,150000,20000.0,First,Udaipur
+2022 Yamaha R15 V4 Racing Blue,180000,15000.0,First,Delhi
+2021 Honda Shine Celebration Edition Disc,60000,15000.0,First,Mumbai
+2019 TVS NTORQ 125 Disc,55000,15000.0,First,Delhi
+2021 TVS NTORQ 125 Race XP,75000,25000.0,First,Delhi
+2014 Royal Enfield Thunderbird 350 ABS,75000,35000.0,First,Delhi
+2021 Hero Passion Pro i3s Drum Alloy,50000,35000.0,First,Ghaziabad
+2014 Honda Activa,30000,10000.0,First,Kolkata
+2020 Vespa ZX 125,60000,5000.0,First,Delhi
+2016 TVS Jupiter STD,25000,94000.0,First,Ghaziabad
+2011 Bajaj Pulsar 180 ABS (2009-2019) BS4,17000,40000.0,First,Delhi
+2019 Yamaha YZF R15 Movistar STD,140000,20000.0,First,Mumbai
+2017 TVS Apache RTR 160 Disc,55000,15000.0,First,Jaipur
+2021 Honda Activa 125 Premium Edition Disc,50000,25000.0,First,Delhi
+2020 Suzuki Access 125 Disc Alloy Bluetooth,45000,11500.0,First,Mumbai
+2017 Aprilia SR 150 ABS,80000,25000.0,Second,Hyderabad
+2013 Bajaj Pulsar 150(2009-2014) STD,50000,100000.0,First,Pune
+2017 TVS Jupiter Classic,33000,2800.0,First,Delhi
+2022 Yezdi Scrambler Single Tone,160000,11500.0,First,Faridabad
+2021 Honda Activa 6G H-Smart,64000,5000.0,First,Faridabad
+2022 Jawa Khakhi And Midnight Grey Editions,170000,6700.0,First,Ghaziabad
+2021 Hero Xtreme 160R 100 Million Limited Edition,90000,10000.0,First,Motihari
+2018 Honda Activa 5G,55000,30000.0,Second,Kota
+2015 Hero Ignitor 125 Drum,28000,12000.0,First,Delhi
+2020 Honda SP 125,58000,60000.0,First,Noida
+2016 Suzuki Gixxer,49999,50000.0,First,Gurgaon
+2011 TVS Wego,20000,120000.0,First,Agra
+2013 Honda Dream Yuga 110,17599,30000.0,Third,Delhi
+2016 Hero Splendor iSmart,35000,60000.0,First,Ahmedabad
+2019 Royal Enfield Thunderbird 350X ABS,140000,6140.0,First,Kolkata
+2017 Hero Splendor Plus Self with Alloy Wheel,45000,50000.0,First,Delhi
+2017 Hyosung GT250R 250R,180000,15000.0,Second,Pune
+2020 Honda Hornet 2.0,80000,80000.0,First,Hyderabad
+2014 Yamaha Fazer-FI Version 2.0,30000,20000.0,First,Bangalore
+2016 Honda Activa 3G STD,40000,80000.0,First,Chennai
+2020 Honda Dio Sports STD,60000,11500.0,First,Mumbai
+2022 Okaya Electric Faast,80000,25000.0,First,Delhi
+2012 Bajaj Avenger 220 STD,35000,13725.0,First,Bangalore
+2011 Bajaj Pulsar 135LS STD,20000,19500.0,First,Delhi
+2016 KTM 390 Duke (2013-2016) STD,120000,40000.0,First,Kalyan
+2015 Hero HF Deluxe Self Start Alloy Wheel All Black,30000,66000.0,Second,Gurgaon
+2023 Bajaj Pulsar N160,150000,3000.0,First,Budaun
+2013 Hero Hunk Double Disc,25000,25000.0,First,Ghaziabad
+2014 Yamaha FZ-S (V 2.0) STD.,55000,5000.0,First,Gurgaon
+2016 Honda CB Unicorn 160 Disc Brake,45000,32000.0,First,Delhi
+2017 Bajaj Avenger Street 150,45000,40000.0,Second,Bokaro
+2020 Jawa Perak,175000,15000.0,First,Pune
+2023 Yamaha FZ-X Bluetooth,140000,2200.0,First,Faridabad
+2021 BMW G 310 GS,300000,5000.0,First,Guwahati
+2010 Hero Honda Hunk,30000,30000.0,First,Delhi
+2019 Honda Activa 5G STD,60000,13500.0,First,Hyderabad
+2014 Suzuki Let’s 110cc,22000,35000.0,First,Lucknow
+2017 Honda Aviator Drum Brake Alloy,40000,15000.0,First,Saran
+2022 Royal Enfield Classic 350 Dark Series With Dual-Channel,230000,1350.0,First,Ahmedabad
+2019 Bajaj Pulsar 220 F,75000,35000.0,First,Lucknow
+2019 Royal Enfield Thunderbird 350X ABS,170000,5000.0,First,Bangalore
+2016 Suzuki Access 125cc,36800,70000.0,First,Bangalore
+2015 Yamaha Fazer 153 STD,35000,25602.0,First,Ahmedabad
+2021 TVS Raider SmartXonnect,70000,35000.0,First,Mumbai
+2014 Hero Maestro 110cc,20000,100000.0,Second,Delhi
+2018 Honda CB Shine BS4 Drum Brake,42000,40000.0,First,Delhi
+2016 TVS Jupiter STD,25000,60000.0,First,Delhi
+2018 Honda CB Shine BS4 Drum Brake,45000,60000.0,First,Agra
+2022 Bajaj Platina 110 H Gear Disc BS6,65000,20000.0,First,Bangalore
+2015 Bajaj Pulsar 200 STD,60000,40000.0,Above,Lucknow
+2017 TVS Jupiter STD,20000,15000.0,First,Delhi
+2023 Hero Xoom 110,76000,1500.0,First,Delhi
+2017 Royal Enfield Bullet Electra std,120000,10000.0,First,Noida
+2017 Bajaj Avenger 220 STD,65000,30000.0,Second,Delhi
+2020 Suzuki Intruder Fi SP,100000,30000.0,First,Pune
+2020 Royal Enfield Classic 350 (2012-2021) Stealth Black BS6 2020,175000,5000.0,First,Mumbai
+2014 TVS Apache RTR 160 Disc,30000,70000.0,Third,Mumbai
+2016 Royal Enfield Himalayan Snow White,96700,100000.0,Second,Delhi
+2023 Ola Electric S1 X,80000,5000.0,First,Hyderabad
+2016 Suzuki Gixxer (2014-2018) Base,40000,30000.0,Second,Chennai
+2018 Honda Livo,45000,35000.0,First,Delhi
+2016 Honda CB Shine SP Disc Brake,45000,40000.0,First,Noida
+2019 Yamaha FZS-FI V3 Dark Knight,100000,35000.0,First,Hyderabad
+2020 Honda SP 125,72000,4173.0,First,Ahmedabad
+2015 Suzuki Gixxer SF (2015-2018),50000,30000.0,First,Delhi
+2017 TVS Jupiter Classic,36000,40000.0,First,Ahmedabad
+2017 Hero Achiever Alloy,45000,40000.0,First,Davangere
+2019 Honda Activa 5G,60000,30000.0,Second,Bangalore
+2020 Royal Enfield Interceptor 650 Orange Crush,275000,3500.0,First,Gurgaon
+2018 Hero Duet LX,35000,37000.0,First,Ballia
+2021 Honda Dio Sports STD,80000,20000.0,First,Hubballi-Dharwad
+2015 Hero Maestro 110cc,20000,25000.0,Second,Gurugram
+2021 Royal Enfield Interceptor 650 Ravishing Red,300000,10000.0,First,Bangalore
+2013 Royal Enfield Bullet 350 Electric Start BS4,85000,5000.0,Second,Patna
+2022 Royal Enfield Bullet 350 X Electric Start,199000,5000.0,First,Nagpur
+2015 Suzuki Gixxer SF (2015-2018),40000,35000.0,First,Chennai
+2022 Yezdi Scrambler Single Tone,185000,8600.0,First,Mumbai
+2016 Honda Livo,35000,35000.0,First,Ghaziabad
+2018 Vespa VXL 125 STD,65000,4650.0,First,Hyderabad
+2016 Suzuki Gixxer SF (2015-2018),50000,36249.0,First,Meerut
+2023 Yamaha R15 V4 Racing Blue,187000,11000.0,First,Sikar
+2013 Hero Ignitor 125 Drum,28000,40000.0,First,Bangalore
+2018 Benelli TNT 300 BS4 ABS BS4,180000,35000.0,Third,Kolkata
+2018 TVS Apache RTR 160 4V Carburetor Dual Disc (2018),80000,30000.0,First,Delhi
+2018 Hero HF Deluxe Self Start Alloy Wheel All Black,48000,35000.0,First,Barmer
+2016 Honda Activa 3G STD,40000,5000.0,First,New Delhi
+2010 Bajaj Pulsar 150(2009-2014) STD,35000,44700.0,First,Pune
+2021 Jawa 42 2.1 Tawang Edition,160000,25000.0,First,Delhi
+2015 Royal Enfield Classic 350 (2012-2021) STD BS3,120000,38000.0,First,Kolkata
+2018 Honda CB Hornet 160R BS4 STD BS4,65000,60000.0,Second,Pune
+2018 Royal Enfield Classic 350 (2012-2021) Redditch BS4,115000,17000.0,Second,Delhi
+2010 Honda Activa,22000,20000.0,First,Mysore
+2016 Honda CBR250R ABS,100000,20000.0,Second,Jamshedpur
+2022 Revolt RV400,110000,1200.0,First,Pune
+2017 Yamaha FZ-S (V 2.0) STD.,60000,12377.0,First,Gurgaon
+2022 Okinawa iPraise+,110000,4500.0,First,Thane
+2019 Royal Enfield Himalayan BS4 ABS,170000,13000.0,First,Ghaziabad
+2019 Bajaj Dominar 400 BS4,150000,17800.0,First,Kanpur
+2013 Bajaj Pulsar NS200 STD BS4,40000,30000.0,Second,Aligarh
+2021 Bajaj Pulsar 125 Carbon Fiber Split Seat,60000,10000.0,First,Giridih
+2014 Bajaj Pulsar 220 F,35000,70000.0,First,Mumbai
+2019 Royal Enfield Interceptor 650 Orange Crush,250000,12300.0,First,Bangalore
+2011 Hero Pleasure Sheet Metal Wheel,25000,20000.0,First,Delhi
+2023 KTM 250 Duke STD,250000,4700.0,First,Mumbai
+2020 Yamaha Fascino 125 Hybrid Disc,65000,40000.0,First,Bangalore
+2019 TVS Apache RTR 160 4V Dual Disc ABS (BS4),72000,30000.0,First,Gurgaon
+2020 Honda Dio Sports DLX,50000,16091.0,First,Mumbai
+2021 Husqvarna Motorcycles Vitpilen 250,160000,15000.0,First,Mumbai
+2019 Vespa SXL 150,80000,5000.0,First,Noida
+2013 Suzuki Access 125 Drum Alloy Bluetooth,30000,20000.0,Second,Ahmadnagar
+2019 KTM Duke 390 2017 Edition1,160000,21500.0,Above,Mumbai
+2019 Bajaj Dominar 400 BS4,150000,20000.0,Second,Mumbai
+2010 TVS Apache RTR 180,18000,80000.0,Third,Mumbai
+2016 Honda CBR 150 R,70000,40000.0,First,Nagpur
