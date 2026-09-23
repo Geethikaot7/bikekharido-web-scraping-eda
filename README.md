@@ -231,7 +231,6 @@ The project includes visualizations for:
 
 ## Project Structure
 
-```text
 bikekharido-used-bike-analysis/
 │
 ├── 01_scraped_data.ipynb
